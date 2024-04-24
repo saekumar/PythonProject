@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+}
+div{
+    background-color: grey;
+    margin: 80px 400px 60px 400px;
+    padding: 150px 100px 130px 100px;
+    text-align: center;
+    background-image: url('Bengaluru.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: aliceblue;
+
+}
